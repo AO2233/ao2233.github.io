@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on 帰宅部</title>
+    <link>https://ao2233.xyz/tags/blog/</link>
+    <description>Recent content in Blog on 帰宅部</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en</language>
+    <copyright>AO</copyright>
+    <lastBuildDate>Tue, 07 Dec 2021 21:13:06 +0000</lastBuildDate>
+    <atom:link href="https://ao2233.xyz/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web 样式测试</title>
+      <link>https://ao2233.xyz/posts/style_test/</link>
+      <pubDate>Tue, 07 Dec 2021 21:13:06 +0000</pubDate>
+      <guid>https://ao2233.xyz/posts/style_test/</guid>
+      <description>标题 and (提示栏)&#xA;一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 级数越大，间距越大&#xA;嵌套效果&#xA;Unicode&#xA;🥺 漢 字 の 部 首 画 数 読 み 方 筆 順 適 湜 ① 葮 焱 暒 妏 雫 翱翔 〆 ㋿ ㍻ ｽｷ&#xA;(*ゝω・)ﾉ♥♥♥ ･ﾟ:*:ﾟ&#xA;code&#xA;1// CPP 2#include &amp;lt;iostream&amp;gt; 3using namespace std; 4int main(){ 5&#x9;cout&amp;lt;&amp;lt;&amp;#34;⑨&amp;#34;&amp;lt;&amp;lt;endl; 6&#x9;return 0; 7} custom img 对于长度过长的图片进行合适的缩放，同时也是导入图片的推荐写法。 对于普通markdown的导入语法，只适合宽度合适的图片（如：16x9）&#xA;1{\{&amp;lt; img src=&amp;#34;/media/abc.png&amp;#34; width=&amp;#34;500px&amp;#34; &amp;gt;}\} 2{\{&amp;lt; img src=&amp;#34;/media/abc.png&amp;#34; width=&amp;#34;50%&amp;#34; &amp;gt;}\} 3{\{&amp;lt; img src=&amp;#34;/media/abc.</description>
+    </item>
+  </channel>
+</rss>
